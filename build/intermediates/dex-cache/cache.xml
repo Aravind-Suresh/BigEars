@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aravind/Desktop/myproj/vision/app/build/intermediates/exploded-aar/vision/openCVLibrary300/unspecified/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ded6c833c3b0b96a56c30c82a7a6424751e15855">
+        <dex dex="/home/aravind/Desktop/myproj/vision/app/build/intermediates/pre-dexed/debug/classes-c8cf1882f2871d902c5607b6b13012b92a8b3615.jar" />
+    </item>
+    <item
+        jar="/home/aravind/Downloads/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/aravind/Desktop/myproj/vision/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-93b88b108de9aee2a28c2966be88fe3cf75dd93c.jar" />
+    </item>
+    <item
+        jar="/home/aravind/Desktop/myproj/vision/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/aravind/Desktop/myproj/vision/app/build/intermediates/pre-dexed/debug/classes-7713362f627845b443433523a16c787a40cd86e7.jar" />
+    </item>
+    <item
+        jar="/home/aravind/Desktop/myproj/vision/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/aravind/Desktop/myproj/vision/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-785c6dc1e94eb53ac6d87bc808baa936e4195456.jar" />
+    </item>
+    <item
+        jar="/home/aravind/Desktop/myproj/vision/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/aravind/Desktop/myproj/vision/app/build/intermediates/pre-dexed/debug/classes-3b7e70460ba7cf8d59d8f30dde3a4e40d69b6968.jar" />
+    </item>
+
+</items>
